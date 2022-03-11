@@ -1,5 +1,3 @@
-# Ioannis-R.github.io
-
 <!DOCTYPE html>
   <head>
     <link rel="stylesheet" href="design.css">
