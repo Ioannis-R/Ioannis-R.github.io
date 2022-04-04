@@ -1,0 +1,52 @@
+html {scroll-behavior: smooth;}
+
+body {background-image: url('Bilder/Overlay.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;}
+
+body nav{position: sticky;top: 0;}
+
+nav {background-image: url('Bilder/Bild Menu.png');
+  background-repeat: no-repeat; background-size: cover; z-index: 2;
+  text-align:center; padding-top: 1px; padding-bottom: 1px;}
+
+Nav a {text-decoration: none;color: Black; font-size: 25px;}
+
+nav p {display: inline-block;}
+
+h1 {text-align: center; font-size: 45px;}
+h2,h3 {text-align:center;font-size: 35px}
+
+.Aufzählung {padding-left: 36%;font-size: 25px}
+.TEXT {padding-left: 14%;padding-right:14%;hyphens: auto;
+	text-align: justify;font-size: 30px}
+.BOX1 {float: left; padding-left: 8%; width: 25%;
+  box-sizing: border-box; z-index: 2;font-size: 25px;}
+.BOX2 {box-sizing: border-box; padding-top: 1px;
+  z-index: 2; font-size: 25px;}
+
+.Bild {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: -1}
+.Menu {list-style: none; display: inline-block; padding-right: 20px;}
+
+.Links{display: block;
+  position: sticky; Bottom: 0; background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; z-index: -1;
+  float: left;}
+.Rechts{display: block;
+  position: sticky; Bottom: 0; background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; z-index: -1;
+  float: right;}
+
+
+footer {
+  position: sticky; bottom: 0; background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; z-index: 0;
+  height: ;}
