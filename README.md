@@ -142,9 +142,9 @@
       </div>
       <div class="BOX2">
         <p>Deutsch (Muttersprache) <br> Griechisch (Muttersprache) <br> Englisch (Schulkenntnisse)</p>
-        <p>MS Office-Paket (Fortgeschrittener Umgang)</br>
+        <p>MS Office-Paket (Fortgeschrittener Umgang)<br>
           Gute Kenntnisse in HTML und Python (Spielentwicklung)<br>
-          Lexware (Routinierter Umgang)</br>
+          Lexware (Routinierter Umgang)<br>
           Hardware (Gute Kenntnisse)</p>
       </div>
 
