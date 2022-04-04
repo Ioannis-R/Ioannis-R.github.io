@@ -189,9 +189,9 @@
       <img src="Bilder/Tank.png" alt="tank" width="900">
     </div>
     <div class="Bild">
-      <img src="Bilder/Tank2.png" alt="tank2" width="900">
+      <img src="Bilder/Tank2.PNG" alt="tank2" width="900">
     </div>
     <div class="Bild">
-      <img src="Bilder/Tank3.png" alt="tank3" width="900">
+      <img src="Bilder/Tank3.PNG" alt="tank3" width="900">
     </div>
   </body>
