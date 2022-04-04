@@ -1,4 +1,3 @@
-<!DOCTYPE html>
   <head>
     <link rel="stylesheet" href="design.css">
     <link rel="icon" type="image/png"
