@@ -109,7 +109,7 @@
         <p>Münchner Volkshochschule, Abschluss: <strong>Mittlere Reife</strong></p>
         <p>Intensivkurs Englisch an der Münchner Volkshochschule</p>
         <p>Staatliche Berufsfachschule an der Bayerischen Landesschule,<br>
-        München, Abschluss:<strong>Fachpraktiker für Bürokommunikation (IHK)</strong></p>
+        München, Abschluss: <strong>Fachpraktiker für Bürokommunikation (IHK)</strong></p>
         <p>Wirtschaftsschule der Bayerischen Landesschule, München</p>
         <p>Bayerische Landesschule, München,
           Abschluss: <strong>Qualifizierender Mittelschulabschluss</strong></p>
