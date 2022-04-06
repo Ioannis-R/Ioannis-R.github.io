@@ -152,7 +152,7 @@
         <ul class="Aufzählung">
           <li>Naturwissenschaft</li>
           <li>Gaming</li>
-          <li>Isekai Anime</li>
+          <li>Anime</li>
         </ul>
 
     <div class="Bild">
