@@ -37,10 +37,10 @@
         mich in der Praxis zu beweisen und mir dadurch einen Ausbildungsplatz zu erarbeiten.
       </p>
       <p>
-        Zuvor habe ich meine erste Berufsausbildung erfolgreich abgeschlossen
-        und war ein Jahr als Verwaltungsassistent beschäftigt,
-        wo ich meine ersten Erfahrungen mit Verwaltung sowie den Umgang mit Kunden sammeln konnte.
-        Durch mein großes Interesse für alles rund um das Thema IT habe ich mich zu einem Berufswechsel entschlossen.
+        Erste berufliche Erfahrungen sammelte ich in meiner schulischen Ausbildung zum Fachpraktiker für Bürokommunikation
+        bei der Bayrischen Landesschule (IHK) und meines einjährigen Nebenjobs als Verwaltungsassistent bei der Anderwerk GmbH.
+        Hier konnte ich meine Zuverlässigkeit unter Beweis stellen und sammelte zudem Erfahrungen im Umgang mit Kunden.
+        Durch mein großes Interesse für das Thema IT habe ich mich zu einem Berufswechsel entschlossen.
       </p>
       <p>
         Als Kind brachte mir mein älterer Bruder bei,
@@ -54,7 +54,7 @@
         Aufgrund meiner Begeisterung für Computer möchte ich unbedingt eine Ausbildung zum Fachinformatiker starten.
       </p>
       <p>
-        Zu meinen weiteren Stärken zählen meine schnelle Auffassungsgabe,
+        Zu meinen Stärken zählen meine schnelle Auffassungsgabe,
         gutes logisches Denkvermögen sowie technisches Verständnis.
         Zuverlässigkeit und Sorgfalt sind mir bei der Erledigung von Aufgaben wichtig.
         Darüber hinaus habe ich Freude an komplexen Aufgaben.
