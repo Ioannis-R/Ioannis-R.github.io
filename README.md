@@ -72,25 +72,6 @@
         <img src="Bilder/Bewerbungsfoto_IoannisRetoulas.jpg"
         width="185" height="200" alt="Ioannis Retoulas">
       </div>
-
-    <h3>Persönliche Daten</h3>
-      <div class="BOX1">
-        <p>Name:</p>
-        <p>Geburtsdatum, -ort:</p>
-        <p>Adresse:</p>
-        <p>Telefon:</p>
-        <p>E-Mail:</p>
-        <p>Staatsangehörigkeit:</p>
-      </div>
-      <div class="BOX2">
-        <p>Ioannis Retoulas</p>
-        <p>03.08.1997 in München</p>
-        <p>Riemer Straße 381, 81829 München</p>
-        <p>+49 (0) 157 35753608</p>
-        <p>Ioannis_Retoulas@outlook.de</p>
-        <p>Griechisch</p>
-      </div>
-
     <h3>Schulbildung</h3>
       <div class="BOX1">
         <p>11/2021 – Heute</p>
@@ -154,11 +135,6 @@
           <li>Gaming</li>
           <li>Anime</li>
         </ul>
-
-    <div class="Bild">
-      <img src="Bilder/US.jpg" alt="us" width="100">
-    </div>
-
     <h1><section id="Projekte">Projekte</section></h1>
       <div class="TEXT">
         <p>-Um die Programme zu testen, einfach auf das obere Play Symbol drücken.</p>
