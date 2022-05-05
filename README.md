@@ -72,6 +72,17 @@
         <img src="Bilder/Bewerbungsfoto_IoannisRetoulas.jpg"
         width="185" height="200" alt="Ioannis Retoulas">
       </div>
+  
+  <h3>Kontaktdaten</h3>
+      <div class="BOX1">
+        <p>Telefon:</p>
+        <p>E-Mail:</p>
+      </div>
+      <div class="BOX2">
+        <p>+49 (0) 157 35753608</p>
+        <p>Ioannis_Retoulas@outlook.de</p>
+      </div>  
+  
     <h3>Schulbildung</h3>
       <div class="BOX1">
         <p>11/2021 – Heute</p>
