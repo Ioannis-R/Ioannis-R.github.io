@@ -51,7 +51,7 @@
         Ich bringe sehr gute Hardwarekenntnisse mit und finde mich schnell mit der Arbeitsweise von neuen Programmen zurecht.
         Vor Kurzem habe ich einen Kurs für Python und HTML abgeschlossen.
         In meiner Freizeit vertiefe ich diese Kenntnisse und erstelle mein eigenes Spiel in Python.
-        Aufgrund meiner Begeisterung für Computer möchte ich unbedingt eine Ausbildung zum Fachinformatiker starten.
+        Aufgrund meiner Begeisterung für Computer möchte ich unbedingt eine Ausbildung im infomatischen bereich starten.
       </p>
       <p>
         Zu meinen Stärken zählen meine schnelle Auffassungsgabe,
